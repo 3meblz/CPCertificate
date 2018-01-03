@@ -1,0 +1,50 @@
+
+body {
+    font-family: "Arial","Tahoma","΢���ź�","�ź�";
+    font-size:12px;
+}
+
+.logo_gridsss{
+    background:transparent url("../images/img/logo_grid.html") no-repeat;
+}
+
+.bgImg{
+    background:transparent url("../images/bgimage.html") no-repeat;
+}
+.buttonPartners{
+    cursor:pointer;
+    margin-left:7px;
+    width:77px;
+    height:31px;
+    background:#efefef;
+    border-radius: 5px;
+    border:1px solid #ccc;
+    color:#4a4a4a;
+    line-height: 31px;
+    text-align: center;
+    font-weight: 500;
+}
+.buttonReset{
+    cursor:pointer;
+    width:77px;
+    height:31px;
+    background:#efefef;
+    border-radius: 5px;
+    border:1px solid #ccc;
+    color:#4a4a4a;
+    line-height: 31px;
+    text-align: center;
+    font-weight: 500;
+}
+.tbl {
+    width:100%;
+    text-align: center;
+    border:0;
+}
+.tblFoot {
+    width:100%;
+    text-align: center;
+    border:0;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif
+}
